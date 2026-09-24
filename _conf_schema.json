@@ -1,0 +1,20 @@
+{
+    "arbiter_emoji_id": {
+        "description": "仲裁表情序号",
+        "hint": "用于发起仲裁的表情序号，默认 111。插件用于确认仲裁已结束的表情固定为 124，请勿冲突。",
+        "type": "int",
+        "default": 111
+    },
+    "window_minutes": {
+        "description": "仲裁窗口时长（分钟）",
+        "hint": "每个窗口的时长，默认30分钟。窗口与整点对齐（如 10:00、10:30）。通常无需修改。",
+        "type": "int",
+        "default": 30
+    },
+    "debug": {
+        "description": "调试模式",
+        "hint": "开启后输出详细日志",
+        "type": "bool",
+        "default": false
+    }
+}
