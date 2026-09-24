@@ -1,6 +1,6 @@
 name: astrbot_plugin_894_arbiter
 display_name: 仲裁插件
 desc: 多机器人环境下自动仲裁，决定由哪个机器人响应命令。
-version: v1.3
+version: 1.0.4
 author: 298x3=
 repo: https://github.com/298x3/astrbot_plugin_894_arbiter
